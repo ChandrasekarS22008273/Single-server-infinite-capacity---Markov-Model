@@ -1,3 +1,6 @@
+# Name: Chandrasekar S
+# Reg.no: 212222230025
+
 # Ex4-Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Date:
 ## Aim :
